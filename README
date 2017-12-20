@@ -1,0 +1,8 @@
+Se creeaza o fereastra pentru meniu, unde se navigheaza cu sagetile.
+La apasarea "New Game" se deschide fereastra jocului.
+Se apeleaza functia draw_hanging pt desenarea spanzuratorii.
+De asemenea, functia panel_info pentru panou.
+La apasarea oricarei taste se actualizeaza data.
+Se revine in meniu cu tasta "Q".
+La apasarea "Resume Game", se reia jocul de unde a ramas.
+La apasarea "Quit", se iese din meniu.
